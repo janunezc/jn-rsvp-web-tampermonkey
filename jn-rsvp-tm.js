@@ -5,10 +5,10 @@
 // @description  Bold the first two syllables (sort of) of every word in every HTML paragraph.
 // @author       Jose Nunez (@kuantif)
 // @downloadURL  https://github.com/janunezc/jn-rsvp-web-tampermonkey/blob/master/jn-rsvp-tm.js
-// @license      MIT
 // @match        https://*.costaricamakers.com/*
 // @match        https://*.nunez-technologies.com/*
 // @match        https://*.c9eb.space/*
+// @license      MIT
 // @grant        none
 // ==/UserScript==
 
